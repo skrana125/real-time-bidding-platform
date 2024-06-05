@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bid_user",
+    "password": "bid_user",
+    "database": "real_time_bid",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "bid_user",
+    "password": "bid_user",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "bid_user",
+    "password": "bid_user",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
